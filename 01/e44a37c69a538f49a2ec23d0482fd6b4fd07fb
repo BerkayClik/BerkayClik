@@ -1,0 +1,23 @@
+README.md
+  s_b78a067a613907::t_54fb1d8de79984 1-6
+assets/header-dark.svg
+  s_b78a067a613907::t_4f598056e317b9 1-50
+assets/header-light.svg
+  s_b78a067a613907::t_eca995bb51536c 1-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "01e44a37c69a538f49a2ec23d0482fd6b4fd07fb",
+  "prompts": {},
+  "sessions": {
+    "s_b78a067a613907": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3e91038c-4e9c-43b0-bf7c-75ee6fe50af2",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "berkayclik <berkay.celik@ozu.edu.tr>"
+    }
+  }
+}
